@@ -1,0 +1,33 @@
+/* frontend/src/styles/AdminPanel.css */
+.admin-panel {
+    margin: 20px;
+  }
+  
+  .admin-panel h2 {
+    margin-bottom: 20px;
+  }
+  
+  .admin-panel table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .admin-panel table, .admin-panel th, .admin-panel td {
+    border: 1px solid black;
+  }
+  
+  .admin-panel th, .admin-panel td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .admin-panel button {
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  

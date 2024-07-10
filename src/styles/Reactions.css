@@ -1,0 +1,17 @@
+/* frontend/src/styles/Reactions.css */
+.reactions {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .reactions button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #ffc107;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
